@@ -60,7 +60,7 @@ ClassicEditor.builtinPlugins = [
 	TableToolbar,
 	TextTransformation,
 	Alignment,
-	ImageResize,
+	ImageResize
 ];
 
 // Editor configuration.
